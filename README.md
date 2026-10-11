@@ -79,7 +79,7 @@ Dataset used:
 
 **Give Me Some Credit (Kaggle)**
 
-https://www.kaggle.com/datasets/brycecf/give-me-some-credit
+[https://www.kaggle.com/datasets/brycecf/give-me-some-credit](https://www.kaggle.com/competitions/GiveMeSomeCredit/data)
 
 Dataset characteristics:
 
