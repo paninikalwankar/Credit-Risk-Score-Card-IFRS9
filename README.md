@@ -9,7 +9,6 @@ Credit Risk Score Card IFRS 9
 
 Interactive credit risk prediction application:
 
-https://credit-risk-scorecard.streamlit.app
 
 The application allows users to enter borrower information and instantly receive:
 
