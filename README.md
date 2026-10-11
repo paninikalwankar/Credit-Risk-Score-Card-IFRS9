@@ -376,12 +376,13 @@ README.md
 Install dependencies:
 
 
-pip install streamlit
-pip install numpy==1.24.4
-pip install scipy==1.11.0
-pip install scikit-learn>=1.2.0
-pip install imbalanced-learn>=0.11.0
-pip install pandas>=1.5.0
+pip install -r  requirements.txt
+streamlit
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+pandas
 
 
 Run the Streamlit app:
